@@ -1,0 +1,14 @@
+Justification
+
+K-means clustering is a user-friendly method that assigns items iteratively based on their closeness towards centers, unlike Gaussian mixture models (GMMs) (Mahmood et al., 2023). Both elbow method and siloutte analysis consistently identify three clusters as the most suitable number for finding an optimum number. The elbow method detects the inflection point on the inertia curve, while siloutte analysis provides graphic insights into cluster quality, aiding decision-making. 
+
+This integration ensures the selection of appropriate clusters tailored to the dataset, capitalizing on the advantages of K-means clustering.
+
+
+Patel, E. and Kushwaha, D.S. (2020) ‘Clustering cloud workloads: K-means vs gaussian mixture model’, Procedia Computer Science, 171, pp. 158–167.
+
+Brownlee, J. (2020) 10 clustering algorithms with python, MachineLearningMastery.com. Available at: https://machinelearningmastery.com/clustering-algorithms-with-python/ (Accessed: 15 April 2024). 
+
+Mahmood, H., Mehmood, T. and Al-Essa, L.A. (2023) ‘Optimizing clustering algorithms for Anti-Microbial Evaluation Data: A majority score-based evaluation of k-means, gaussian mixture model, and multivariate T-distribution mixtures’, IEEE Access, 11, pp. 79793–79800. 
+
+WORD COUNT-184
